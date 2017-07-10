@@ -1,9 +1,9 @@
 //
 //  ViewController.m
-//  Login
+//  LoginAnother
 //
-//  Created by Dönör Raja on 7/10/17.
-//  Copyright © 2017 Raja. All rights reserved.
+//  Created by Tharzeez on 7/10/17.
+//  Copyright © 2017 Tharzeez. All rights reserved.
 //
 
 #import "ViewController.h"

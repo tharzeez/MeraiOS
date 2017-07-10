@@ -1,18 +1,18 @@
 //
-//  LoginTests.m
-//  LoginTests
+//  LoginAnotherTests.m
+//  LoginAnotherTests
 //
-//  Created by Dönör Raja on 7/10/17.
-//  Copyright © 2017 Raja. All rights reserved.
+//  Created by Tharzeez on 7/10/17.
+//  Copyright © 2017 Tharzeez. All rights reserved.
 //
 
 #import <XCTest/XCTest.h>
 
-@interface LoginTests : XCTestCase
+@interface LoginAnotherTests : XCTestCase
 
 @end
 
-@implementation LoginTests
+@implementation LoginAnotherTests
 
 - (void)setUp {
     [super setUp];
