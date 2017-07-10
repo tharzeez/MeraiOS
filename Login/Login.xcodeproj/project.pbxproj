@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2B40457B1F139B5D00EE9906 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2B40457A1F139B5D00EE9906 /* Main.storyboard */; };
 		8A6EB06B1F13604400919A63 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 8A6EB06A1F13604400919A63 /* main.m */; };
 		8A6EB06E1F13604400919A63 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 8A6EB06D1F13604400919A63 /* AppDelegate.m */; };
 		8A6EB0711F13604400919A63 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8A6EB0701F13604400919A63 /* ViewController.m */; };
@@ -26,6 +27,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		2B40457A1F139B5D00EE9906 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
 		8A6EB0661F13604400919A63 /* Login.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Login.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8A6EB06A1F13604400919A63 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		8A6EB06C1F13604400919A63 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -83,6 +85,7 @@
 				8A6EB06D1F13604400919A63 /* AppDelegate.m */,
 				8A6EB06F1F13604400919A63 /* ViewController.h */,
 				8A6EB0701F13604400919A63 /* ViewController.m */,
+				2B40457A1F139B5D00EE9906 /* Main.storyboard */,
 				8A6EB0751F13604400919A63 /* Assets.xcassets */,
 				8A6EB0771F13604400919A63 /* LaunchScreen.storyboard */,
 				8A6EB07A1F13604400919A63 /* Info.plist */,
@@ -190,6 +193,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2B40457B1F139B5D00EE9906 /* Main.storyboard in Resources */,
 				8A6EB0791F13604400919A63 /* LaunchScreen.storyboard in Resources */,
 				8A6EB0761F13604400919A63 /* Assets.xcassets in Resources */,
 			);
@@ -400,6 +404,7 @@
 				8A6EB08A1F13604400919A63 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		8A6EB08B1F13604400919A63 /* Build configuration list for PBXNativeTarget "LoginTests" */ = {
 			isa = XCConfigurationList;
@@ -408,6 +413,7 @@
 				8A6EB08D1F13604400919A63 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
