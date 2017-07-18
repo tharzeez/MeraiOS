@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2B23870D1F1757BC0076B645 /* RegistrationViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2B23870C1F1757BC0076B645 /* RegistrationViewController.m */; };
+		2B2387101F1759ED0076B645 /* ForgotViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2B23870F1F1759ED0076B645 /* ForgotViewController.m */; };
 		2B4046081F13A42300EE9906 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 2B4046071F13A42300EE9906 /* main.m */; };
 		2B40460B1F13A42300EE9906 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 2B40460A1F13A42300EE9906 /* AppDelegate.m */; };
 		2B40460E1F13A42300EE9906 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2B40460D1F13A42300EE9906 /* ViewController.m */; };
@@ -15,6 +17,9 @@
 		2B4046161F13A42300EE9906 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2B4046141F13A42300EE9906 /* LaunchScreen.storyboard */; };
 		2B4046211F13A42300EE9906 /* LoginAnotherTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 2B4046201F13A42300EE9906 /* LoginAnotherTests.m */; };
 		2B40462C1F13A42300EE9906 /* LoginAnotherUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 2B40462B1F13A42300EE9906 /* LoginAnotherUITests.m */; };
+		2BEF5DD31F18ADE0001AD7D5 /* RegisterViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2BEF5DD21F18ADE0001AD7D5 /* RegisterViewController.m */; };
+		2BEF5DD61F18EF70001AD7D5 /* RegFinalViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2BEF5DD51F18EF70001AD7D5 /* RegFinalViewController.m */; };
+		2BFCE32C1F1521310033DB13 /* HomePage.m in Sources */ = {isa = PBXBuildFile; fileRef = 2BFCE32B1F1521310033DB13 /* HomePage.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,6 +40,10 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		2B23870B1F1757BC0076B645 /* RegistrationViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RegistrationViewController.h; sourceTree = "<group>"; };
+		2B23870C1F1757BC0076B645 /* RegistrationViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RegistrationViewController.m; sourceTree = "<group>"; };
+		2B23870E1F1759ED0076B645 /* ForgotViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ForgotViewController.h; sourceTree = "<group>"; };
+		2B23870F1F1759ED0076B645 /* ForgotViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ForgotViewController.m; sourceTree = "<group>"; };
 		2B4046031F13A42300EE9906 /* LoginAnother.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LoginAnother.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2B4046071F13A42300EE9906 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		2B4046091F13A42300EE9906 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -51,6 +60,12 @@
 		2B4046271F13A42300EE9906 /* LoginAnotherUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LoginAnotherUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2B40462B1F13A42300EE9906 /* LoginAnotherUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LoginAnotherUITests.m; sourceTree = "<group>"; };
 		2B40462D1F13A42400EE9906 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2BEF5DD11F18ADE0001AD7D5 /* RegisterViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RegisterViewController.h; sourceTree = "<group>"; };
+		2BEF5DD21F18ADE0001AD7D5 /* RegisterViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RegisterViewController.m; sourceTree = "<group>"; };
+		2BEF5DD41F18EF70001AD7D5 /* RegFinalViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RegFinalViewController.h; sourceTree = "<group>"; };
+		2BEF5DD51F18EF70001AD7D5 /* RegFinalViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RegFinalViewController.m; sourceTree = "<group>"; };
+		2BFCE32A1F1521310033DB13 /* HomePage.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HomePage.h; sourceTree = "<group>"; };
+		2BFCE32B1F1521310033DB13 /* HomePage.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HomePage.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,9 +118,19 @@
 			children = (
 				2B4046091F13A42300EE9906 /* AppDelegate.h */,
 				2B40460A1F13A42300EE9906 /* AppDelegate.m */,
+				2BFCE32A1F1521310033DB13 /* HomePage.h */,
+				2BFCE32B1F1521310033DB13 /* HomePage.m */,
 				2B40460C1F13A42300EE9906 /* ViewController.h */,
 				2B40460D1F13A42300EE9906 /* ViewController.m */,
 				2B40460F1F13A42300EE9906 /* Main.storyboard */,
+				2BEF5DD41F18EF70001AD7D5 /* RegFinalViewController.h */,
+				2BEF5DD51F18EF70001AD7D5 /* RegFinalViewController.m */,
+				2B23870B1F1757BC0076B645 /* RegistrationViewController.h */,
+				2BEF5DD11F18ADE0001AD7D5 /* RegisterViewController.h */,
+				2BEF5DD21F18ADE0001AD7D5 /* RegisterViewController.m */,
+				2B23870C1F1757BC0076B645 /* RegistrationViewController.m */,
+				2B23870E1F1759ED0076B645 /* ForgotViewController.h */,
+				2B23870F1F1759ED0076B645 /* ForgotViewController.m */,
 				2B4046121F13A42300EE9906 /* Assets.xcassets */,
 				2B4046141F13A42300EE9906 /* LaunchScreen.storyboard */,
 				2B4046171F13A42300EE9906 /* Info.plist */,
@@ -276,9 +301,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2BFCE32C1F1521310033DB13 /* HomePage.m in Sources */,
 				2B40460E1F13A42300EE9906 /* ViewController.m in Sources */,
+				2BEF5DD61F18EF70001AD7D5 /* RegFinalViewController.m in Sources */,
+				2B23870D1F1757BC0076B645 /* RegistrationViewController.m in Sources */,
 				2B40460B1F13A42300EE9906 /* AppDelegate.m in Sources */,
+				2BEF5DD31F18ADE0001AD7D5 /* RegisterViewController.m in Sources */,
 				2B4046081F13A42300EE9906 /* main.m in Sources */,
+				2B2387101F1759ED0076B645 /* ForgotViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -518,6 +548,7 @@
 				2B4046321F13A42400EE9906 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		2B4046331F13A42400EE9906 /* Build configuration list for PBXNativeTarget "LoginAnotherTests" */ = {
 			isa = XCConfigurationList;
@@ -526,6 +557,7 @@
 				2B4046351F13A42400EE9906 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		2B4046361F13A42400EE9906 /* Build configuration list for PBXNativeTarget "LoginAnotherUITests" */ = {
 			isa = XCConfigurationList;
@@ -534,6 +566,7 @@
 				2B4046381F13A42400EE9906 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
